@@ -25,5 +25,6 @@ Below is the dashboard that I created with the cleaned dataset:
 [Link to Interactive Dashboard](https://public.tableau.com/app/profile/douglas1371/viz/ValueIncDashboard_16871032271030/SalesDashboard)  
 ![Value Inc Sales Dashboard](https://github.com/TupperwareBox/DataAnalyticsShowcase/blob/3a15d2e4928ab6976012f945fb2c2dc38d212bfc/Value_Inc/Value%20Inc%20Sales%20Dashboard.png)
 
-This project was part of a Data Analysis Bootcamp and contrbuted to the following certificate:
+This project was part of a Data Analysis Bootcamp, hosted on Udemy and Created by Dee Naidoo, and contributed to the following certificate:
 ![Certificate of Completion](https://github.com/TupperwareBox/DataAnalyticsShowcase/blob/main/Bootcamp%20Certificate.jpg)
+
