@@ -23,8 +23,7 @@ In summary, the code reads transaction data, performs calculations and data tran
 
 Below is the dashboard that I created with the cleaned dataset:  
 [Link to Interactive Dashboard](https://public.tableau.com/app/profile/douglas1371/viz/ValueIncDashboard_16871032271030/SalesDashboard)  
-![Value Inc Sales Dashboard](https://github.com/TupperwareBox/DataAnalyticsShowcase/blob/3a15d2e4928ab6976012f945fb2c2dc38d212bfc/Value_Inc/Value%20Inc%20Sales%20Dashboard.png)
+![Value Inc Sales Dashboard](https://github.com/DougWicker/Mini-Project-3-Value-Inc/blob/5e66c6b5dd25341576bd9327cb0fe3c047953f10/Value%20Inc/Value%20Inc%20Sales%20Dashboard.png)
 
 This project was part of a Data Analysis Bootcamp, hosted on Udemy and Created by Dee Naidoo, and contributed to the following certificate:
-![Certificate of Completion](https://github.com/TupperwareBox/DataAnalyticsShowcase/blob/main/Bootcamp%20Certificate.jpg)
-
+![Certificate of Completion](https://github.com/DougWicker/Mini-Project-3-Value-Inc/blob/main/Bootcamp%20Certificate.jpg)
